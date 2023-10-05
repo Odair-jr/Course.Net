@@ -1,0 +1,15 @@
+D:\projetosVisualS\casting\casting\bin\Debug\net7.0\casting.exe
+D:\projetosVisualS\casting\casting\bin\Debug\net7.0\casting.deps.json
+D:\projetosVisualS\casting\casting\bin\Debug\net7.0\casting.runtimeconfig.json
+D:\projetosVisualS\casting\casting\bin\Debug\net7.0\casting.dll
+D:\projetosVisualS\casting\casting\bin\Debug\net7.0\casting.pdb
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.csproj.AssemblyReference.cache
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.AssemblyInfoInputs.cache
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.AssemblyInfo.cs
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.dll
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\refint\casting.dll
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.pdb
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\casting.genruntimeconfig.cache
+D:\projetosVisualS\casting\casting\obj\Debug\net7.0\ref\casting.dll

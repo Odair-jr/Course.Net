@@ -1,0 +1,15 @@
+D:\projetosVisualS\vetoresum\vetoresum\bin\Debug\net7.0\vetoresum.exe
+D:\projetosVisualS\vetoresum\vetoresum\bin\Debug\net7.0\vetoresum.deps.json
+D:\projetosVisualS\vetoresum\vetoresum\bin\Debug\net7.0\vetoresum.runtimeconfig.json
+D:\projetosVisualS\vetoresum\vetoresum\bin\Debug\net7.0\vetoresum.dll
+D:\projetosVisualS\vetoresum\vetoresum\bin\Debug\net7.0\vetoresum.pdb
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.csproj.AssemblyReference.cache
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.AssemblyInfoInputs.cache
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.AssemblyInfo.cs
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.dll
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\refint\vetoresum.dll
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.pdb
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\vetoresum.genruntimeconfig.cache
+D:\projetosVisualS\vetoresum\vetoresum\obj\Debug\net7.0\ref\vetoresum.dll

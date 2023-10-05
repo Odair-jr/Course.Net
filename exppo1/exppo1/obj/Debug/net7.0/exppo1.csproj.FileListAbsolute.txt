@@ -1,0 +1,15 @@
+D:\projetosVisualS\exppo1\exppo1\bin\Debug\net7.0\exppo1.exe
+D:\projetosVisualS\exppo1\exppo1\bin\Debug\net7.0\exppo1.deps.json
+D:\projetosVisualS\exppo1\exppo1\bin\Debug\net7.0\exppo1.runtimeconfig.json
+D:\projetosVisualS\exppo1\exppo1\bin\Debug\net7.0\exppo1.dll
+D:\projetosVisualS\exppo1\exppo1\bin\Debug\net7.0\exppo1.pdb
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.csproj.AssemblyReference.cache
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.AssemblyInfoInputs.cache
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.AssemblyInfo.cs
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.dll
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\refint\exppo1.dll
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.pdb
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\exppo1.genruntimeconfig.cache
+D:\projetosVisualS\exppo1\exppo1\obj\Debug\net7.0\ref\exppo1.dll

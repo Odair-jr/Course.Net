@@ -1,0 +1,15 @@
+D:\projetosVisualS\vetordois\vetordois\bin\Debug\net7.0\vetordois.exe
+D:\projetosVisualS\vetordois\vetordois\bin\Debug\net7.0\vetordois.deps.json
+D:\projetosVisualS\vetordois\vetordois\bin\Debug\net7.0\vetordois.runtimeconfig.json
+D:\projetosVisualS\vetordois\vetordois\bin\Debug\net7.0\vetordois.dll
+D:\projetosVisualS\vetordois\vetordois\bin\Debug\net7.0\vetordois.pdb
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.csproj.AssemblyReference.cache
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.AssemblyInfoInputs.cache
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.AssemblyInfo.cs
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.dll
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\refint\vetordois.dll
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.pdb
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\vetordois.genruntimeconfig.cache
+D:\projetosVisualS\vetordois\vetordois\obj\Debug\net7.0\ref\vetordois.dll

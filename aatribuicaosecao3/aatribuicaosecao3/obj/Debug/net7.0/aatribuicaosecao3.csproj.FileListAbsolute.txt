@@ -1,0 +1,15 @@
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.csproj.AssemblyReference.cache
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.AssemblyInfoInputs.cache
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.AssemblyInfo.cs
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\bin\Debug\net7.0\aatribuicaosecao3.exe
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\bin\Debug\net7.0\aatribuicaosecao3.deps.json
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\bin\Debug\net7.0\aatribuicaosecao3.runtimeconfig.json
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\bin\Debug\net7.0\aatribuicaosecao3.dll
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\bin\Debug\net7.0\aatribuicaosecao3.pdb
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.dll
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\refint\aatribuicaosecao3.dll
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.pdb
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\aatribuicaosecao3.genruntimeconfig.cache
+D:\projetosVisualS\aatribuicaosecao3\aatribuicaosecao3\obj\Debug\net7.0\ref\aatribuicaosecao3.dll

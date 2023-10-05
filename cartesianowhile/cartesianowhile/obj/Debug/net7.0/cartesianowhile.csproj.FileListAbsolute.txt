@@ -1,0 +1,15 @@
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.csproj.AssemblyReference.cache
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.AssemblyInfoInputs.cache
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.AssemblyInfo.cs
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\cartesianowhile\cartesianowhile\bin\Debug\net7.0\cartesianowhile.exe
+D:\projetosVisualS\cartesianowhile\cartesianowhile\bin\Debug\net7.0\cartesianowhile.deps.json
+D:\projetosVisualS\cartesianowhile\cartesianowhile\bin\Debug\net7.0\cartesianowhile.runtimeconfig.json
+D:\projetosVisualS\cartesianowhile\cartesianowhile\bin\Debug\net7.0\cartesianowhile.dll
+D:\projetosVisualS\cartesianowhile\cartesianowhile\bin\Debug\net7.0\cartesianowhile.pdb
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.dll
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\refint\cartesianowhile.dll
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.pdb
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\cartesianowhile.genruntimeconfig.cache
+D:\projetosVisualS\cartesianowhile\cartesianowhile\obj\Debug\net7.0\ref\cartesianowhile.dll

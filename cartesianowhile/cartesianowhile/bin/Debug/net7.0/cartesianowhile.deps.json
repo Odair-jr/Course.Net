@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cartesianowhile/1.0.0": {
+        "runtime": {
+          "cartesianowhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cartesianowhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

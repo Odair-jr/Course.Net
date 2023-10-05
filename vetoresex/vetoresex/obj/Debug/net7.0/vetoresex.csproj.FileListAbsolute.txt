@@ -1,0 +1,15 @@
+D:\projetosVisualS\vetoresex\vetoresex\bin\Debug\net7.0\vetoresex.exe
+D:\projetosVisualS\vetoresex\vetoresex\bin\Debug\net7.0\vetoresex.deps.json
+D:\projetosVisualS\vetoresex\vetoresex\bin\Debug\net7.0\vetoresex.runtimeconfig.json
+D:\projetosVisualS\vetoresex\vetoresex\bin\Debug\net7.0\vetoresex.dll
+D:\projetosVisualS\vetoresex\vetoresex\bin\Debug\net7.0\vetoresex.pdb
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.csproj.AssemblyReference.cache
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.AssemblyInfoInputs.cache
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.AssemblyInfo.cs
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.dll
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\refint\vetoresex.dll
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.pdb
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\vetoresex.genruntimeconfig.cache
+D:\projetosVisualS\vetoresex\vetoresex\obj\Debug\net7.0\ref\vetoresex.dll

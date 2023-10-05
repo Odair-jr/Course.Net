@@ -1,0 +1,15 @@
+D:\projetosVisualS\Courseseisseis\Courseseisseis\bin\Debug\net7.0\Courseseisseis.exe
+D:\projetosVisualS\Courseseisseis\Courseseisseis\bin\Debug\net7.0\Courseseisseis.deps.json
+D:\projetosVisualS\Courseseisseis\Courseseisseis\bin\Debug\net7.0\Courseseisseis.runtimeconfig.json
+D:\projetosVisualS\Courseseisseis\Courseseisseis\bin\Debug\net7.0\Courseseisseis.dll
+D:\projetosVisualS\Courseseisseis\Courseseisseis\bin\Debug\net7.0\Courseseisseis.pdb
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.csproj.AssemblyReference.cache
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.AssemblyInfoInputs.cache
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.AssemblyInfo.cs
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.dll
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\refint\Courseseisseis.dll
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.pdb
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\Courseseisseis.genruntimeconfig.cache
+D:\projetosVisualS\Courseseisseis\Courseseisseis\obj\Debug\net7.0\ref\Courseseisseis.dll

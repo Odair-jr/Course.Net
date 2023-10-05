@@ -1,0 +1,15 @@
+D:\projetosVisualS\while\while\bin\Debug\net7.0\while.exe
+D:\projetosVisualS\while\while\bin\Debug\net7.0\while.deps.json
+D:\projetosVisualS\while\while\bin\Debug\net7.0\while.runtimeconfig.json
+D:\projetosVisualS\while\while\bin\Debug\net7.0\while.dll
+D:\projetosVisualS\while\while\bin\Debug\net7.0\while.pdb
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.csproj.AssemblyReference.cache
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.AssemblyInfoInputs.cache
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.AssemblyInfo.cs
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.dll
+D:\projetosVisualS\while\while\obj\Debug\net7.0\refint\while.dll
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.pdb
+D:\projetosVisualS\while\while\obj\Debug\net7.0\while.genruntimeconfig.cache
+D:\projetosVisualS\while\while\obj\Debug\net7.0\ref\while.dll

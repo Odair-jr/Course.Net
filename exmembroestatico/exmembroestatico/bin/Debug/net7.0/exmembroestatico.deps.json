@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exmembroestatico/1.0.0": {
+        "runtime": {
+          "exmembroestatico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exmembroestatico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

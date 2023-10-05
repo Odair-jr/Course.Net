@@ -1,0 +1,15 @@
+D:\projetosVisualS\entradac#pt2\entradac#pt2\bin\Debug\net7.0\entradac#pt2.exe
+D:\projetosVisualS\entradac#pt2\entradac#pt2\bin\Debug\net7.0\entradac#pt2.deps.json
+D:\projetosVisualS\entradac#pt2\entradac#pt2\bin\Debug\net7.0\entradac#pt2.runtimeconfig.json
+D:\projetosVisualS\entradac#pt2\entradac#pt2\bin\Debug\net7.0\entradac#pt2.dll
+D:\projetosVisualS\entradac#pt2\entradac#pt2\bin\Debug\net7.0\entradac#pt2.pdb
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.csproj.AssemblyReference.cache
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.AssemblyInfoInputs.cache
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.AssemblyInfo.cs
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.dll
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\refint\entradac#pt2.dll
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.pdb
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\entradac#pt2.genruntimeconfig.cache
+D:\projetosVisualS\entradac#pt2\entradac#pt2\obj\Debug\net7.0\ref\entradac#pt2.dll

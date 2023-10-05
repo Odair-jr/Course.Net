@@ -1,0 +1,15 @@
+D:\projetosVisualS\barkara\barkara\bin\Debug\net7.0\barkara.exe
+D:\projetosVisualS\barkara\barkara\bin\Debug\net7.0\barkara.deps.json
+D:\projetosVisualS\barkara\barkara\bin\Debug\net7.0\barkara.runtimeconfig.json
+D:\projetosVisualS\barkara\barkara\bin\Debug\net7.0\barkara.dll
+D:\projetosVisualS\barkara\barkara\bin\Debug\net7.0\barkara.pdb
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.csproj.AssemblyReference.cache
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.AssemblyInfoInputs.cache
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.AssemblyInfo.cs
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.dll
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\refint\barkara.dll
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.pdb
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\barkara.genruntimeconfig.cache
+D:\projetosVisualS\barkara\barkara\obj\Debug\net7.0\ref\barkara.dll

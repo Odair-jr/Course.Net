@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "placeho", "placeho\placeho.csproj", "{F52E398C-533C-47FC-9F4E-A4B1DB74D646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52E398C-533C-47FC-9F4E-A4B1DB74D646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52E398C-533C-47FC-9F4E-A4B1DB74D646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52E398C-533C-47FC-9F4E-A4B1DB74D646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52E398C-533C-47FC-9F4E-A4B1DB74D646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DCB0B65-D91B-4F3B-8FC9-91E105C1A05D}
+	EndGlobalSection
+EndGlobal

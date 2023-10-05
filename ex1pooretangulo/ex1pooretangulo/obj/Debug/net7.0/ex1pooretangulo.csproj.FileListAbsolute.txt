@@ -1,0 +1,15 @@
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\bin\Debug\net7.0\ex1pooretangulo.exe
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\bin\Debug\net7.0\ex1pooretangulo.deps.json
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\bin\Debug\net7.0\ex1pooretangulo.runtimeconfig.json
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\bin\Debug\net7.0\ex1pooretangulo.dll
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\bin\Debug\net7.0\ex1pooretangulo.pdb
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.csproj.AssemblyReference.cache
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.AssemblyInfoInputs.cache
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.AssemblyInfo.cs
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.dll
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\refint\ex1pooretangulo.dll
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.pdb
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ex1pooretangulo.genruntimeconfig.cache
+D:\projetosVisualS\ex1pooretangulo\ex1pooretangulo\obj\Debug\net7.0\ref\ex1pooretangulo.dll

@@ -1,0 +1,15 @@
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.csproj.AssemblyReference.cache
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.AssemblyInfoInputs.cache
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.AssemblyInfo.cs
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\forfor\forfor\bin\Debug\net7.0\forfor.exe
+D:\projetosVisualS\forfor\forfor\bin\Debug\net7.0\forfor.deps.json
+D:\projetosVisualS\forfor\forfor\bin\Debug\net7.0\forfor.runtimeconfig.json
+D:\projetosVisualS\forfor\forfor\bin\Debug\net7.0\forfor.dll
+D:\projetosVisualS\forfor\forfor\bin\Debug\net7.0\forfor.pdb
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.dll
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\refint\forfor.dll
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.pdb
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\forfor.genruntimeconfig.cache
+D:\projetosVisualS\forfor\forfor\obj\Debug\net7.0\ref\forfor.dll

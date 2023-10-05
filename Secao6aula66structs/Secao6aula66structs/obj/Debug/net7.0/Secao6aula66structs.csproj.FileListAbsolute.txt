@@ -1,0 +1,5 @@
+D:\projetosVisualS\Secao6aula66structs\Secao6aula66structs\obj\Debug\net7.0\Secao6aula66structs.csproj.AssemblyReference.cache
+D:\projetosVisualS\Secao6aula66structs\Secao6aula66structs\obj\Debug\net7.0\Secao6aula66structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\Secao6aula66structs\Secao6aula66structs\obj\Debug\net7.0\Secao6aula66structs.AssemblyInfoInputs.cache
+D:\projetosVisualS\Secao6aula66structs\Secao6aula66structs\obj\Debug\net7.0\Secao6aula66structs.AssemblyInfo.cs
+D:\projetosVisualS\Secao6aula66structs\Secao6aula66structs\obj\Debug\net7.0\Secao6aula66structs.csproj.CoreCompileInputs.cache

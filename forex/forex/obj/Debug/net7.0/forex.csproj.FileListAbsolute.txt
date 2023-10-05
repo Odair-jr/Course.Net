@@ -1,0 +1,15 @@
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.csproj.AssemblyReference.cache
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.AssemblyInfoInputs.cache
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.AssemblyInfo.cs
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\forex\forex\bin\Debug\net7.0\forex.exe
+D:\projetosVisualS\forex\forex\bin\Debug\net7.0\forex.deps.json
+D:\projetosVisualS\forex\forex\bin\Debug\net7.0\forex.runtimeconfig.json
+D:\projetosVisualS\forex\forex\bin\Debug\net7.0\forex.dll
+D:\projetosVisualS\forex\forex\bin\Debug\net7.0\forex.pdb
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.dll
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\refint\forex.dll
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.pdb
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\forex.genruntimeconfig.cache
+D:\projetosVisualS\forex\forex\obj\Debug\net7.0\ref\forex.dll

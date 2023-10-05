@@ -1,0 +1,15 @@
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.csproj.AssemblyReference.cache
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.AssemblyInfoInputs.cache
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.AssemblyInfo.cs
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\placeho\placeho\bin\Debug\net7.0\placeho.exe
+D:\projetosVisualS\placeho\placeho\bin\Debug\net7.0\placeho.deps.json
+D:\projetosVisualS\placeho\placeho\bin\Debug\net7.0\placeho.runtimeconfig.json
+D:\projetosVisualS\placeho\placeho\bin\Debug\net7.0\placeho.dll
+D:\projetosVisualS\placeho\placeho\bin\Debug\net7.0\placeho.pdb
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.dll
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\refint\placeho.dll
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.pdb
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\placeho.genruntimeconfig.cache
+D:\projetosVisualS\placeho\placeho\obj\Debug\net7.0\ref\placeho.dll

@@ -1,0 +1,15 @@
+D:\projetosVisualS\ex1seção5\ex1seção5\bin\Debug\net7.0\ex1seção5.exe
+D:\projetosVisualS\ex1seção5\ex1seção5\bin\Debug\net7.0\ex1seção5.deps.json
+D:\projetosVisualS\ex1seção5\ex1seção5\bin\Debug\net7.0\ex1seção5.runtimeconfig.json
+D:\projetosVisualS\ex1seção5\ex1seção5\bin\Debug\net7.0\ex1seção5.dll
+D:\projetosVisualS\ex1seção5\ex1seção5\bin\Debug\net7.0\ex1seção5.pdb
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.csproj.AssemblyReference.cache
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.AssemblyInfoInputs.cache
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.AssemblyInfo.cs
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.dll
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\refint\ex1seção5.dll
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.pdb
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ex1seção5.genruntimeconfig.cache
+D:\projetosVisualS\ex1seção5\ex1seção5\obj\Debug\net7.0\ref\ex1seção5.dll

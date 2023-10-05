@@ -1,0 +1,15 @@
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.csproj.AssemblyReference.cache
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.AssemblyInfoInputs.cache
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.AssemblyInfo.cs
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\ex1secao3\ex1secao3\bin\Debug\net7.0\ex1secao3.exe
+D:\projetosVisualS\ex1secao3\ex1secao3\bin\Debug\net7.0\ex1secao3.deps.json
+D:\projetosVisualS\ex1secao3\ex1secao3\bin\Debug\net7.0\ex1secao3.runtimeconfig.json
+D:\projetosVisualS\ex1secao3\ex1secao3\bin\Debug\net7.0\ex1secao3.dll
+D:\projetosVisualS\ex1secao3\ex1secao3\bin\Debug\net7.0\ex1secao3.pdb
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.dll
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\refint\ex1secao3.dll
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.pdb
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ex1secao3.genruntimeconfig.cache
+D:\projetosVisualS\ex1secao3\ex1secao3\obj\Debug\net7.0\ref\ex1secao3.dll

@@ -1,0 +1,15 @@
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\bin\Debug\net7.0\ex2poofuncionario.exe
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\bin\Debug\net7.0\ex2poofuncionario.deps.json
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\bin\Debug\net7.0\ex2poofuncionario.runtimeconfig.json
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\bin\Debug\net7.0\ex2poofuncionario.dll
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\bin\Debug\net7.0\ex2poofuncionario.pdb
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.csproj.AssemblyReference.cache
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.AssemblyInfoInputs.cache
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.AssemblyInfo.cs
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.dll
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\refint\ex2poofuncionario.dll
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.pdb
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ex2poofuncionario.genruntimeconfig.cache
+D:\projetosVisualS\ex2poofuncionario\ex2poofuncionario\obj\Debug\net7.0\ref\ex2poofuncionario.dll

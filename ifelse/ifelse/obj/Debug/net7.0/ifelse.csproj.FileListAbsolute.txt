@@ -1,0 +1,15 @@
+D:\projetosVisualS\ifelse\ifelse\bin\Debug\net7.0\ifelse.exe
+D:\projetosVisualS\ifelse\ifelse\bin\Debug\net7.0\ifelse.deps.json
+D:\projetosVisualS\ifelse\ifelse\bin\Debug\net7.0\ifelse.runtimeconfig.json
+D:\projetosVisualS\ifelse\ifelse\bin\Debug\net7.0\ifelse.dll
+D:\projetosVisualS\ifelse\ifelse\bin\Debug\net7.0\ifelse.pdb
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.csproj.AssemblyReference.cache
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.AssemblyInfoInputs.cache
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.AssemblyInfo.cs
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.dll
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\refint\ifelse.dll
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.pdb
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ifelse.genruntimeconfig.cache
+D:\projetosVisualS\ifelse\ifelse\obj\Debug\net7.0\ref\ifelse.dll

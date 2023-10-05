@@ -1,0 +1,15 @@
+D:\projetosVisualS\courseconstrutor\courseconstrutor\bin\Debug\net7.0\courseconstrutor.exe
+D:\projetosVisualS\courseconstrutor\courseconstrutor\bin\Debug\net7.0\courseconstrutor.deps.json
+D:\projetosVisualS\courseconstrutor\courseconstrutor\bin\Debug\net7.0\courseconstrutor.runtimeconfig.json
+D:\projetosVisualS\courseconstrutor\courseconstrutor\bin\Debug\net7.0\courseconstrutor.dll
+D:\projetosVisualS\courseconstrutor\courseconstrutor\bin\Debug\net7.0\courseconstrutor.pdb
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.csproj.AssemblyReference.cache
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.AssemblyInfoInputs.cache
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.AssemblyInfo.cs
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.dll
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\refint\courseconstrutor.dll
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.pdb
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\courseconstrutor.genruntimeconfig.cache
+D:\projetosVisualS\courseconstrutor\courseconstrutor\obj\Debug\net7.0\ref\courseconstrutor.dll

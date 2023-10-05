@@ -1,0 +1,15 @@
+D:\projetosVisualS\entradapt1\entradapt1\bin\Debug\net7.0\entradapt1.exe
+D:\projetosVisualS\entradapt1\entradapt1\bin\Debug\net7.0\entradapt1.deps.json
+D:\projetosVisualS\entradapt1\entradapt1\bin\Debug\net7.0\entradapt1.runtimeconfig.json
+D:\projetosVisualS\entradapt1\entradapt1\bin\Debug\net7.0\entradapt1.dll
+D:\projetosVisualS\entradapt1\entradapt1\bin\Debug\net7.0\entradapt1.pdb
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.csproj.AssemblyReference.cache
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.AssemblyInfoInputs.cache
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.AssemblyInfo.cs
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.dll
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\refint\entradapt1.dll
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.pdb
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\entradapt1.genruntimeconfig.cache
+D:\projetosVisualS\entradapt1\entradapt1\obj\Debug\net7.0\ref\entradapt1.dll

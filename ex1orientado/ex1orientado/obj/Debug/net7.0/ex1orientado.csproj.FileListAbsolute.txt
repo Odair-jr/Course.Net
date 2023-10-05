@@ -1,0 +1,15 @@
+D:\projetosVisualS\ex1orientado\ex1orientado\bin\Debug\net7.0\ex1orientado.exe
+D:\projetosVisualS\ex1orientado\ex1orientado\bin\Debug\net7.0\ex1orientado.deps.json
+D:\projetosVisualS\ex1orientado\ex1orientado\bin\Debug\net7.0\ex1orientado.runtimeconfig.json
+D:\projetosVisualS\ex1orientado\ex1orientado\bin\Debug\net7.0\ex1orientado.dll
+D:\projetosVisualS\ex1orientado\ex1orientado\bin\Debug\net7.0\ex1orientado.pdb
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.csproj.AssemblyReference.cache
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.AssemblyInfoInputs.cache
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.AssemblyInfo.cs
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.dll
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\refint\ex1orientado.dll
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.pdb
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ex1orientado.genruntimeconfig.cache
+D:\projetosVisualS\ex1orientado\ex1orientado\obj\Debug\net7.0\ref\ex1orientado.dll

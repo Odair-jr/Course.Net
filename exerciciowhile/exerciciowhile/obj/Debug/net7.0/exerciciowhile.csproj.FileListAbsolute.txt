@@ -1,0 +1,15 @@
+D:\projetosVisualS\exerciciowhile\exerciciowhile\bin\Debug\net7.0\exerciciowhile.exe
+D:\projetosVisualS\exerciciowhile\exerciciowhile\bin\Debug\net7.0\exerciciowhile.deps.json
+D:\projetosVisualS\exerciciowhile\exerciciowhile\bin\Debug\net7.0\exerciciowhile.runtimeconfig.json
+D:\projetosVisualS\exerciciowhile\exerciciowhile\bin\Debug\net7.0\exerciciowhile.dll
+D:\projetosVisualS\exerciciowhile\exerciciowhile\bin\Debug\net7.0\exerciciowhile.pdb
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.csproj.AssemblyReference.cache
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.AssemblyInfoInputs.cache
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.AssemblyInfo.cs
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.dll
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\refint\exerciciowhile.dll
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.pdb
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\exerciciowhile.genruntimeconfig.cache
+D:\projetosVisualS\exerciciowhile\exerciciowhile\obj\Debug\net7.0\ref\exerciciowhile.dll

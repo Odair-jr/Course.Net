@@ -1,0 +1,15 @@
+D:\projetosVisualS\estoque\estoque\bin\Debug\net7.0\estoque.exe
+D:\projetosVisualS\estoque\estoque\bin\Debug\net7.0\estoque.deps.json
+D:\projetosVisualS\estoque\estoque\bin\Debug\net7.0\estoque.runtimeconfig.json
+D:\projetosVisualS\estoque\estoque\bin\Debug\net7.0\estoque.dll
+D:\projetosVisualS\estoque\estoque\bin\Debug\net7.0\estoque.pdb
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.csproj.AssemblyReference.cache
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.AssemblyInfoInputs.cache
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.AssemblyInfo.cs
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.dll
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\refint\estoque.dll
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.pdb
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\estoque.genruntimeconfig.cache
+D:\projetosVisualS\estoque\estoque\obj\Debug\net7.0\ref\estoque.dll

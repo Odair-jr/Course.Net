@@ -1,0 +1,15 @@
+D:\projetosVisualS\aritimeticos\aritimeticos\bin\Debug\net7.0\aritimeticos.exe
+D:\projetosVisualS\aritimeticos\aritimeticos\bin\Debug\net7.0\aritimeticos.deps.json
+D:\projetosVisualS\aritimeticos\aritimeticos\bin\Debug\net7.0\aritimeticos.runtimeconfig.json
+D:\projetosVisualS\aritimeticos\aritimeticos\bin\Debug\net7.0\aritimeticos.dll
+D:\projetosVisualS\aritimeticos\aritimeticos\bin\Debug\net7.0\aritimeticos.pdb
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.csproj.AssemblyReference.cache
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.AssemblyInfoInputs.cache
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.AssemblyInfo.cs
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.dll
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\refint\aritimeticos.dll
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.pdb
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\aritimeticos.genruntimeconfig.cache
+D:\projetosVisualS\aritimeticos\aritimeticos\obj\Debug\net7.0\ref\aritimeticos.dll

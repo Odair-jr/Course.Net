@@ -1,0 +1,15 @@
+D:\projetosVisualS\exmembroestatico\exmembroestatico\bin\Debug\net7.0\exmembroestatico.exe
+D:\projetosVisualS\exmembroestatico\exmembroestatico\bin\Debug\net7.0\exmembroestatico.deps.json
+D:\projetosVisualS\exmembroestatico\exmembroestatico\bin\Debug\net7.0\exmembroestatico.runtimeconfig.json
+D:\projetosVisualS\exmembroestatico\exmembroestatico\bin\Debug\net7.0\exmembroestatico.dll
+D:\projetosVisualS\exmembroestatico\exmembroestatico\bin\Debug\net7.0\exmembroestatico.pdb
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.csproj.AssemblyReference.cache
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.AssemblyInfoInputs.cache
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.AssemblyInfo.cs
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.csproj.CoreCompileInputs.cache
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.dll
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\refint\exmembroestatico.dll
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.pdb
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\exmembroestatico.genruntimeconfig.cache
+D:\projetosVisualS\exmembroestatico\exmembroestatico\obj\Debug\net7.0\ref\exmembroestatico.dll
